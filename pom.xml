@@ -153,8 +153,8 @@
 	</build>
 	<distributionManagement>
         <repository>
-            <id>releases</id>
-            <url>http://35.231.229.218:8081/nexus/content/repositories/releases/</url>
+            <id>releaserepo</id>
+            <url>http://35.231.229.218:8081/nexus/content/repositories/releaserepo/</url>
         </repository>
     	</distributionManagement>
 </project>
